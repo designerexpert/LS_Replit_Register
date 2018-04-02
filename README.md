@@ -1,4 +1,4 @@
-#Repl.it Set Up
+# Repl.it Set Up
 ## Step 1:
 * [Navigate to: Repl.it](https://repl.it)
 ## Step 2:
